@@ -1,6 +1,10 @@
 # Local Output
 /css
 *.css
+
+# Local package-lock ignore
+package-lock.json
+
 # Logs
 logs
 *.log
