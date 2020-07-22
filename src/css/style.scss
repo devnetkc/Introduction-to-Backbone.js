@@ -1,4 +1,15 @@
-@import 'customVariables';
-@import '../../node_modules/bootstrap/scss/bootstrap';
+/* my custom stylesheet */
 
-@import 'customStyles';
+// include my own scss imports here to overide BS
+
+@import "custom-variables";
+
+//
+// Bootstrap 4 imports
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+//
+// My custom imports for customizing and overriding Bootstrap settings
+
+@import "structure";
