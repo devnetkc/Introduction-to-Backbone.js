@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/devnetkc/Introduction-to-Backbone.js#readme",
   "dependencies": {
-    "bootstrap": "^4.5.0"
+    "backbone": "^1.4.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
   }
 }
