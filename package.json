@@ -1,0 +1,22 @@
+{
+  "name": "introtobackbonejs",
+  "version": "1.0.0",
+  "description": "This is a tutorial Ryan Valizan is doing to learn more about Backbone.JS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devnetkc/Introduction-to-Backbone.js.git"
+  },
+  "keywords": [
+    "backbone.js",
+    "backbone"
+  ],
+  "author": "Ryan Valizan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devnetkc/Introduction-to-Backbone.js/issues"
+  },
+  "homepage": "https://github.com/devnetkc/Introduction-to-Backbone.js#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
